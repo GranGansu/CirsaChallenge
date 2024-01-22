@@ -34,3 +34,4 @@ D:\Downloads\Proyectos\Blazor\CirsaChallenge\obj\Debug\net8.0\scopedcss\Componen
 D:\Downloads\Proyectos\Blazor\CirsaChallenge\obj\Debug\net8.0\scopedcss\Components\Pages\Register.razor.rz.scp.css
 D:\Downloads\Proyectos\Blazor\CirsaChallenge\obj\Debug\net8.0\scopedcss\Components\Pages\Login.razor.rz.scp.css
 D:\Downloads\Proyectos\Blazor\CirsaChallenge\obj\Debug\net8.0\scopedcss\Components\Pages\Fotos.razor.rz.scp.css
+D:\Downloads\Proyectos\Blazor\CirsaChallenge\obj\Debug\net8.0\CirsaChallenge.sourcelink.json

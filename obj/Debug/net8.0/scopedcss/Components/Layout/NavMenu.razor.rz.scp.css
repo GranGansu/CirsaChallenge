@@ -13,7 +13,7 @@
 .container-fluid[b-0sqmv5idjq]{
     height: 100%;
 }
-.prueba1[b-0sqmv5idjq]{filter: invert();font-weight: bold;color:black}
+.prueba1[b-0sqmv5idjq]{font-weight: bold;color:black}
 .prueba2[b-0sqmv5idjq]{color: black;}
 .navbar-toggler:checked[b-0sqmv5idjq] {
     background-color: rgba(0, 0, 0, 0.5);

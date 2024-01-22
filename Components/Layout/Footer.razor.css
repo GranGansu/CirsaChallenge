@@ -7,6 +7,7 @@ footer {
     margin-top: 50px;
     color: white;
     font-size: small;
+    flex-direction: column;
 }
 
 ul li {
@@ -28,9 +29,7 @@ li:hover {
 }
 
 @media (min-width:640px) {
-    footer {
-        flex-direction: column;
-    }
+
 
     footer ul {
         flex-direction: row;

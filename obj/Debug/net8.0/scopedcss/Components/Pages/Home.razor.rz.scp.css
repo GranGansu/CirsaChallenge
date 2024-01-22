@@ -1,19 +1,17 @@
 .grids[b-7tzz3iy0nj] {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    transform: skew(-6deg, 6deg);
-    width: 110%;
-    left: -50px;
+    width: 100%;
     position: relative;
 }
 
 .grids>div[b-7tzz3iy0nj] {
     display: flex;
     justify-content: center;
-    padding: 60px;
+    padding: 60px 40px;
     background: url(/img/home.jpg);
     position: relative;
-    border: 10px solid black;
+    border: 4px solid black;
 }
 
 .absolutos[b-7tzz3iy0nj] {
@@ -38,8 +36,10 @@
         background-color: rgba(225, 9, 9, 0.6);
     }
 }
+
 .banner[b-7tzz3iy0nj] {
-    min-height: 500px;
+        min-height: 700px;
+/*     height:min-content; */
     border: 1px solid rgb(195, 195, 195);
     border-radius: 5px;
     color: white;
@@ -49,12 +49,15 @@
     z-index: -1;
     overflow: hidden;
 }
-h1[b-7tzz3iy0nj]{
+
+h1[b-7tzz3iy0nj] {
     font-size: xx-large;
 }
-.card-body[b-7tzz3iy0nj]{
+
+.card-body[b-7tzz3iy0nj] {
     align-items: center;
 }
+
 .adv[b-7tzz3iy0nj] {
     grid-template-columns: 1fr 1fr 1fr;
     display: grid;
@@ -99,10 +102,6 @@ button a[b-7tzz3iy0nj] {
     top: 0;
     z-index: -1;
     opacity: 1;
-    /*     animation-name: nueva;
-    animation-duration: 20s; */
-    /* background-image: url('/img/home.jpg'); */
-
 }
 
 .card[b-7tzz3iy0nj] {

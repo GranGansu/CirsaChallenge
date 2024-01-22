@@ -13,7 +13,7 @@
 .container-fluid{
     height: 100%;
 }
-.prueba1{filter: invert();font-weight: bold;color:black}
+.prueba1{font-weight: bold;color:black}
 .prueba2{color: black;}
 .navbar-toggler:checked {
     background-color: rgba(0, 0, 0, 0.5);
